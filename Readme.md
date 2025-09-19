@@ -3,6 +3,7 @@
 ```bash
 npm install
 npm run build:all
+npm run server
 ```
 
 ## Running the Client
